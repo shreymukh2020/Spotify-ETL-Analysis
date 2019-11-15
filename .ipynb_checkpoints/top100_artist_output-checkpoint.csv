@@ -1,0 +1,101 @@
+Artist,Sales,popularity,Country,Formation,End,Genre
+The Beatles,600,90,United Kingdom,1960,1970,Rock 
+Elvis Presley,600,81,United States,1954,1977,Rock and roll 
+Michael Jackson,350,85,United States,1964,2009,Pop 
+Elton John,300,85,United Kingdom,1964,2019,Pop 
+Madonna,300,80,United States,1979,2019,Pop 
+Led Zeppelin,300,82,United Kingdom,1968,1980,Hard rock 
+Rihanna,250,90,Barbados,2005,2019,R&B 
+Pink Floyd,250,83,United Kingdom,1965,1996,Progressive rock 
+Eminem,220,93,United States,1996,2019,Hip-hop
+Taylor Swift,200,94,United States,2006,2019,Pop 
+Mariah Carey,200,82,United States,1988,2019,R&B 
+Eagles,200,79,United States,1971,1980,Rock
+Queen,200,91,United Kingdom,1971,2019,Rock
+Whitney Houston,200,83,United States,1977,2012,R&B 
+Celine Dion,200,79,Canada,1981,2019,Pop
+AC/DC,200,85,Australia,1973,2019,Hard rock 
+The Rolling Stones,200,83,United Kingdom,1962,2019,Rock 
+Garth Brooks,160,54,United States,1989,2019,Country
+Drake,150,97,Canada,2001,2019,Hip-hop 
+Ed Sheeran,150,97,United Kingdom,2004,2019,Pop 
+Justin Bieber,150,93,Canada,2008,2019,Pop 
+Billy Joel,150,79,United States,1964,2019,Pop 
+U2,150,82,Ireland,1976,2019,Rock
+Barbra Streisand,150,69,United States,1960,2019,Pop 
+Phil Collins,150,79,United Kingdom,1980,2011,Rock 
+Aerosmith,150,79,United States,1970,2019,Hard rock
+ABBA,150,80,Sweden,1972,1982,Pop 
+Frank Sinatra,150,82,United States,1935,1995,Pop 
+Katy Perry,143,88,United States,2001,2019,Pop
+Kanye West,140,96,United States,1996,2019,Hip-hop 
+Bruce Springsteen,135,80,United States,1972,2019,Rock
+Bruno Mars,130,89,United States,2004,2019,Pop rock 
+Jay-Z,125,82,United States,1996,2019,Hip-hop
+Metallica,125,85,United States,1981,2019,Heavy metal 
+Lady Gaga,124,88,United States,2005,2019,Pop 
+Adele,120,85,United Kingdom,2006,2019,"Pop, soul"
+Fleetwood Mac,120,83,United Kingdom,1967,2019,Rock 
+Rod Stewart,120,76,United Kingdom,1964,2019,Rock 
+Bee Gees,120,77,United Kingdom,1963,2003,Pop 
+Lil Wayne,110,90,United States,1996,2019,Hip-hop
+Maroon 5,101,92,United States,1994,2019,Pop rock 
+Chris Brown,100,92,United States,2005,2019,Pop 
+Beyoncé,100,89,United States,1997,2019,R&B 
+Coldplay,100,90,United Kingdom,1996,2019,Alternative rock
+Linkin Park,100,87,United States,1996,2019,Alternative rock 
+B'z,100,0,Japan,1988,2019,Rock 
+Bon Jovi,100,81,United States,1983,2019,Hard rock 
+Britney Spears,100,81,United States,1998,2019,Pop 
+Guns N' Roses,100,83,United States,1985,2019,Hard rock 
+Backstreet Boys,100,81,United States,1993,2019,Pop
+George Strait,100,75,United States,1981,2019,Country
+Eric Clapton,100,77,United Kingdom,1962,2019,"Rock, Blues"
+Neil Diamond,100,71,United States,1966,2019,Pop 
+Santana,100,76,United States,1966,2019,Rock
+Prince,100,81,United States,1976,2016,Funk 
+Kenny Rogers,100,70,United States,1958,2019,Country 
+Paul McCartney,100,76,United Kingdom,1960,2019,Rock
+Simon & Garfunkel,100,76,United States,1956,2004,Folk rock
+Janet Jackson,100,70,United States,1982,2019,R&B 
+Julio Iglesias,100,70,Spain,1968,2019,Latin
+Dire Straits,100,78,United Kingdom,1977,1995,Rock 
+Chicago,100,72,United States,1967,2019,Rock 
+Bob Dylan,100,78,United States,1959,2019,Folk 
+Def Leppard,100,72,United Kingdom,1977,2019,Hard rock 
+Cher,100,73,United States,1964,2019,Pop 
+Genesis,100,71,United Kingdom,1967,2019,Progressive rock 
+James Taylor,100,72,United States,1968,2019,Rock 
+Olivia Newton-John,100,69,Australia,1966,2019,Pop
+Stevie Wonder,100,80,United States,1961,2019,Funk 
+David Bowie,100,82,United Kingdom,1962,2016,Art rock 
+Tina Turner,100,72,United States,1955,2019,Rock 
+Linda Ronstadt,100,64,United States,1967,2019,Rock 
+Donna Summer,100,68,United States,1968,2012,Pop 
+The Beach Boys,100,76,United States,1961,2019,Rock 
+The Who,100,75,United Kingdom,1964,2019,Rock 
+Barry White,100,68,United States,1972,2003,R&B 
+Shania Twain,90,74,Canada,1993,2019,Country pop
+Pink,90,83,United States,1995,2019,Pop
+The Carpenters,90,71,United States,1969,1983,Pop
+Lionel Richie,90,74,United States,1968,2019,Pop 
+"Earth, Wind & Fire",90,76,United States,1969,2019,Funk 
+Johnny Cash,90,79,United States,1954,2003,Country 
+Justin Timberlake,88,82,United States,1992,2019,Pop
+Nicki Minaj,85,91,United States,2008,2019,"Hip-hop,"
+R.E.M.,85,76,United States,1980,2011,Alternative rock
+Flo Rida,80,81,United States,2007,2019,Hip-hop
+Van Halen,80,75,United States,1978,2019,Hard rock 
+Ayumi Hamasaki,80,61,Japan,1998,2019,J-pop 
+Red Hot Chili Peppers,80,86,United States,1983,2019,Funk rock 
+George Michael,80,76,United Kingdom,1981,2016,Pop
+Foreigner,80,72,United States,1976,2019,Rock 
+The Doors,80,77,United States,1965,1973,Psychedelic rock
+Meat Loaf,80,66,United States,1968,2019,Rock 
+Tom Petty,80,73,United States,1976,2017,Rock
+Johnny Hallyday,80,65,France,1957,2017,Rock 
+Tim McGraw,75,76,United States,1990,2019,Country
+Journey,75,77,United States,1973,2019,Rock 
+Usher,75,83,United States,1991,2019,R&B 
+The Black Eyed Peas,75,85,United States,1995,2019,Hip-hop 
+Christina Aguilera,75,81,United States,1993,2019,R&B 
